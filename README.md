@@ -3,7 +3,7 @@
 I am a Brazilian who have recently completed a one-year course on Full Stack Web Development at the Digital Career Institute in Berlin. Now I am looking for an opportunity as an intern or junior developer.
 
 💼 I have a background in Communication and I've worked for a few years with content localization.  
-💻 My favorite part of working is seeing the little pieces getting together and turning out to be something really nice. 😎  
+💻 My favorite part of coding is seeing the little pieces getting together and turning out to be something really nice. 😎  
 🔪 Fun fact: I like to cook to relax my mind.  
 
 Technologies I study and/or have been using:
