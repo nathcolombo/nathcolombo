@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋🏼
 
 I am a Brazilian who have recently completed a one-year course on Full Stack Web Development at the Digital Career Institute in Berlin. Now I am looking for an opportunity as an intern or junior developer.
 
