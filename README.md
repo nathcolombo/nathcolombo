@@ -1,4 +1,4 @@
-### Olá, tudo bem? 👋🏼
+### Olá, tudo bem? 👋🏼 🇧🇷
 
 Meu nome é Nathaly e eu estou em transição de carreira, atualmente estudando Análise e Desenvolvimento de Sistemas na Pontifícia Universidade Católica do Paraná.  
 Em 2021, eu realizei um ano de curso em Desenvolvimento Web pelo Digital Career Institute em Berlim, e agora, em 2024, iniciei a minha graduação.  
@@ -7,7 +7,7 @@ Se quiser saber mais e/ou entrar em contato, você pode visitar o meu portfólio
 
 ---
 
-### Hi there! 👋🏼
+### Hi there! 👋🏼 🇬🇧
 
 My name is Nathaly, and I'm transitioning my career into tech. I'm currently studying Systems Analysis and Development at Pontifícia Universidade Católica do Paraná (Brazil).  
 In 2021, I completed a one-year Web Development course at the Digital Career Institute in Berlin, and now, in 2024, I started my undergraduate degree.  
